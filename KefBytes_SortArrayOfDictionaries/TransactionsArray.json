@@ -1,0 +1,28 @@
+{
+    "PendingTransaction": [
+                           {
+                           "Description": "TIAA-CREF TRUST COMPANY FSB Standing Order",
+                           "Amount": 10,
+                           "Date": "2016-08-10-04:00",
+                           "Sequence": "6"
+                           },
+                           {
+                           "Description": "TIAA-CREF TRUST COMPANY FSB Standing Order",
+                           "Amount": 200,
+                           "Date": "2016-08-11-04:00",
+                           "Sequence": "1"
+                           },
+                           {
+                           "Description": "BANK OF AMERICA, N.A. Standing Order",
+                           "Amount": 255,
+                           "Date": "2016-08-11-04:00",
+                           "Sequence": "5"
+                           },
+                           {
+                           "Description": "TIAA-CREF TRUST COMPANY FSB Payment Order",
+                           "Amount": 150,
+                           "Date": "2016-08-25-04:00",
+                           "Sequence": "2"
+                           }
+    ]
+}

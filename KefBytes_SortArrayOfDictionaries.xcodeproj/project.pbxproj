@@ -13,6 +13,7 @@
 		A70FB5A91DB661DF00CA5DCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A70FB5A71DB661DF00CA5DCE /* Main.storyboard */; };
 		A70FB5AB1DB661DF00CA5DCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A70FB5AA1DB661DF00CA5DCE /* Assets.xcassets */; };
 		A70FB5AE1DB661DF00CA5DCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A70FB5AC1DB661DF00CA5DCE /* LaunchScreen.storyboard */; };
+		A70FB5B61DB662BA00CA5DCE /* TransactionsArray.json in Resources */ = {isa = PBXBuildFile; fileRef = A70FB5B51DB662BA00CA5DCE /* TransactionsArray.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A70FB5AA1DB661DF00CA5DCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A70FB5AD1DB661DF00CA5DCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A70FB5AF1DB661DF00CA5DCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A70FB5B51DB662BA00CA5DCE /* TransactionsArray.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TransactionsArray.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				A70FB5AC1DB661DF00CA5DCE /* LaunchScreen.storyboard */,
 				A70FB5AF1DB661DF00CA5DCE /* Info.plist */,
 				A70FB59E1DB661DF00CA5DCE /* Supporting Files */,
+				A70FB5B51DB662BA00CA5DCE /* TransactionsArray.json */,
 			);
 			path = KefBytes_SortArrayOfDictionaries;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				A70FB5AE1DB661DF00CA5DCE /* LaunchScreen.storyboard in Resources */,
 				A70FB5AB1DB661DF00CA5DCE /* Assets.xcassets in Resources */,
+				A70FB5B61DB662BA00CA5DCE /* TransactionsArray.json in Resources */,
 				A70FB5A91DB661DF00CA5DCE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
